@@ -10,9 +10,13 @@ Codes for  ___LDEdit: Local Disease-guided Editing for Longitudinal Data Synthes
 
 <img src="https://github.com/CAolex/LDEdit/blob/main/images/flow.png" alt="flow" width="600">
 
-<img src="https://github.com/CAolex/LDEdit/blob/main/images/flow.png" alt="flow" width="600">
+<img src="https://github.com/CAolex/LDEdit/blob/main/images/results.png" alt="results" width="600">
 
-<img src="https://github.com/CAolex/LDEdit/blob/main/images/flow.png" alt="flow" width="600">
+<img src="https://github.com/CAolex/LDEdit/blob/main/images/ISIC.png" alt="ISIC" width="600">
+
+<img src="https://github.com/CAolex/LDEdit/blob/main/images/calssification.png" alt="calssification" width="600">
+
+<img src="https://github.com/CAolex/LDEdit/blob/main/images/diagnostic.png" alt="diagnostic" width="600">
 
 ## Result
 
