@@ -2,7 +2,7 @@
 
 ## About
 
-Codes for  __LDEdit: Local Disease-guided Editing for Longitudinal Data Synthesis__
+Codes for  ___LDEdit: Local Disease-guided Editing for Longitudinal Data Synthesis___
 
 
 ## Abstract
