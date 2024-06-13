@@ -14,7 +14,7 @@ Codes for  ___LDEdit: Local Disease-guided Editing for Longitudinal Data Synthes
 
 <img src="https://github.com/CAolex/LDEdit/blob/main/images/ISIC.png" alt="ISIC" width="600">
 
-<img src="https://github.com/CAolex/LDEdit/blob/main/images/calssification.png" alt="calssification" width="600">
+<img src="https://github.com/CAolex/LDEdit/blob/main/images/classification.png" alt="calssification" width="600">
 
 <img src="https://github.com/CAolex/LDEdit/blob/main/images/diagnostic.png" alt="diagnostic" width="600">
 
